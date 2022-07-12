@@ -7,9 +7,10 @@ npm i axios
 ```
 npm i navbar
 ```
-![Screen Shot 2022-07-07 at 3 56 52 PM](https://user-images.githubusercontent.com/35810850/178556577-3551d84a-bb3e-4543-b291-bd85014a8ddb.JPEG)
-![Screen Shot 2022-07-07 at 3 56 40 PM](https://user-images.githubusercontent.com/35810850/178556576-e4ed5cd5-ed44-4b0b-9651-960a384ffb14.JPEG)
-![Screen Shot 2022-07-07 at 3 57 05 PM](https://user-images.githubusercontent.com/35810850/178556578-997d31fd-df31-48c2-91dc-ed6ef35db483.JPEG)
+![pokemon01](https://user-images.githubusercontent.com/35810850/178565113-cade0c82-72b2-4e00-923c-0b664f5f1f8f.png)
+![pokemon02](https://user-images.githubusercontent.com/35810850/178565138-4856e59d-19ce-4f9d-b319-5d95fb07fead.png)
+![pokemon03](https://user-images.githubusercontent.com/35810850/178565147-fa0d4726-2fb2-4441-8305-301ff906144c.png)
+
 
 ```
 Go through a list of multiple Pokemon!
